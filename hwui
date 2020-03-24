@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-24T09:22:48.165Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="MiElw4UWaPT_jSXfBADg" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-24T09:23:32.131Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="oJ62-7DlHaH4YIY_Wdwj" version="12.9.0" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2170" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -410,7 +410,7 @@
         <mxCell id="sdJeZVjpC06bsZHNApsa-61" value="mCanvas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="670" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sdJeZVjpC06bsZHNApsa-62" value="SkiaCanvas" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="sdJeZVjpC06bsZHNApsa-62" value="SkNoDrawCanvas" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-350" y="720" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="sdJeZVjpC06bsZHNApsa-63" value="variable" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sdJeZVjpC06bsZHNApsa-62">
@@ -422,7 +422,7 @@
         <mxCell id="sdJeZVjpC06bsZHNApsa-65" value="func" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sdJeZVjpC06bsZHNApsa-62">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="sdJeZVjpC06bsZHNApsa-66" value="SkiaCanvas" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="sdJeZVjpC06bsZHNApsa-66" value="SkCanvas" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-690" y="720" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="sdJeZVjpC06bsZHNApsa-67" value="variable" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sdJeZVjpC06bsZHNApsa-66">
